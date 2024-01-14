@@ -4,3 +4,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> #By Adrian Svesko
 >>> print("COP2002.0M2 Spring 2024")
 COP2002.0M2 Spring 2024
+
+print("I am understanding sort of how to use GitHub to keep track of changes")
